@@ -1,0 +1,44 @@
+h1{
+   /* text-align:right; */
+   text-align:end;
+  /* text-decoration: underline; */
+ /* text-decoration:overline; */
+ /* text-decoration:line-through; */
+}
+a{
+   /* text-decoration:none; */
+/*   text-decoration:blue wavy overline; */
+ /*  text-decoration:blue dotted overline; */
+ /*  text-decoration:yellow double underline; */
+ /* text-decoration: aqua deshad underline; */
+
+}
+p{
+   /* text-align:center; */
+    /* font-weight:bold; */
+   /* font-weight:bolder; */
+   font-weight:lighter; 
+   font-family:sans-serif;
+
+}
+#h1{
+ /* font-weight:bold; */
+ font-weight:100;
+}
+
+#h2{
+   /* font-weight:bolder; */
+   font-weight:250;
+}
+#h3{
+   /* font-weight:lighter; */
+   font-weight:600;
+}
+#h4{
+  /* font-weight:normal; */
+  font-weight:900;
+}
+
+#p2{
+    font-family:arial;
+}
